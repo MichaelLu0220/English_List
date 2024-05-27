@@ -1,4 +1,4 @@
 # Play English List On Python
-## First-build environment
-pip install openpyxl  
-pip install pywin32==300
+## 之後更新教程
+如果需要可以私訊我
+Gmail: michaellu0220@gmail.com
